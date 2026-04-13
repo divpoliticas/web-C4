@@ -1,7 +1,5 @@
 
 
-***INFORME TEMÁTICO***
-
 # **Economía Circular y Cambio Climático en Chile**
 
 **Versión 09 de Abril de 2026**
