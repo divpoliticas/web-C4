@@ -1132,7 +1132,7 @@ Zolghadr-Asli, B., McIntyre, N., Djordjevic, S., Farmani, R., & Pagliero, L. (20
 | **Concepción**  | Colegio Almondale Lomas; Colegio Chileno Árabe; Colegio Concepción Chiguayante; Colegio P. Luis Amigó; Colegio Sagrado Corazón de Jesús, Chillán; Colegio Santa Luisa; Colegio Villa Nonguén; Sebastián School. |
 | **Valdivia** | Escuela Rural Huitag; Instituto Italia; INSAT; Inmaculada Concepción Valdivia; LARR (Liceo Armando Robles Rivera). | 
 | **Valparaíso** | Centro Educativo Luz de Esperanza; Colegio San Nicolás; Colegio Santa Clara; Escuela Básica Papudo. |
-| **Antofagasta** | Escuela General Manuel Baquedano F-78 Escuela República de Argentina D-90 ICEDUC |
+| **Antofagasta** | Escuela General Manuel Baquedano F-78; Escuela República de Argentina D-90 ICEDUC |
 | **Punta Arenas** | Colegio Británico; Colegio Luterano; Escuela España; Escuela Villa Las Nieves, INSAFA; Liceo María Auxiliadora; Liceo Polivalente Sara Braun; Liceo San José. |
 | **Total establecimientos** | **27** |
 
