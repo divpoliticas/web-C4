@@ -523,7 +523,7 @@ Chile enfrenta y continuará enfrentando grandes desafíos relativos a eventos d
 ## **2.3. Incendios forestales y salud poblacional** {#2.3.-incendios-forestales-y-salud-poblacional}
 
 ***Este apartado se basa en los aportes de:***  
-***Autores***  
+***Autores:***  
 *Estela Blanco, College UC, Pontificia Universidad Católica de Chile; Escuela de Salud Pública, Pontificia Universidad Católica de Chile; Centro de Ciencia del Clima y la Resiliencia (CR)2.*  
 *Francisco de la Barrera, Facultad de Ciencias Ambientales (EULA-Chile), Universidad de Concepción; Centro de Desarrollo Urbano Sustentable (CEDEUS), Universidad de Concepción.*  
 **Para consultar el texto completo ver “Informe Temático. Compilado De Contribuciones*”***
