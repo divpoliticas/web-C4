@@ -35,7 +35,7 @@ Alberto J. Alaniz, *Apoyo Científico \- Secretaría Técnica Comité Científic
    
 **CITA SUGERIDA PARA EL INFORME COMPLETO:** Comité Científico Asesor de Cambio Climático (2026). *Informe Temático. Cambio Climático y Salud: Evidencias y Acciones para Informar sobre los Riesgos en Salud Pública y Poblacional en Chile.* Ministerio de Ciencia, Tecnología, Conocimiento e Innovación. Santiago, Chile.  
    
-**DOI:** (Dejar espacio para agregar cuando esté listo)  
+**DOI:** [https://doi.org/10.5281/zenodo.20072498](https://doi.org/10.5281/zenodo.20072498)  
    
  
 
