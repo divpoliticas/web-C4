@@ -35,7 +35,7 @@ Alberto J. Alaniz, *Apoyo Científico \- Secretaría Técnica Comité Científic
 
 **CITA SUGERIDA PARA EL INFORME COMPLETO:** Comité Científico Asesor de Cambio Climático (2026). *Informe Temático. Nexo Agua-Energía-Alimentos en Chile: Ciencia y Políticas para una Gestión Sostenible.* Ministerio de Ciencia, Tecnología, Conocimiento e Innovación. Santiago, Chile.
 
-**DOI:** (Dejar espacio para agregar cuando esté listo)
+**DOI:** <a href="https://doi.org/10.5281/zenodo.20071201" target="_blank">https://doi.org/10.5281/zenodo.20071201</a>
 
 **INFORME TEMÁTICO**  
 **Nexo Agua-Energía-Alimentos en Chile: Ciencia y Políticas para una Gestión Sostenible**
